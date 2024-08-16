@@ -17,7 +17,7 @@ print('Your starship, Lunaquest, detects an unusual energy signature from a near
 print('As you approach, you witness a spectacular phenomenon—a massive star shower, with one particularly large star fragment crashing into the planets surface.')
 print('The planets atmosphere shimmers with an ethereal glow.')
 
-print('You have two options. Choode wisely')
+print('You have two options. Choose wisely')
 print('1.Investigate the Starfall: You decide to land near the crash site of the large star fragment, curious to see what secrets it holds.')
 print('2.Explore the Shimmering Forest:the planets surface is covered in a vast, glowing forest. You choose to land the ship near the edge of the forest and explore its mysteries.')
 
@@ -57,7 +57,7 @@ if answear1 == 1:
             print('The star fragments energy (or the magic from the pool) significantly weakens the monster, and you engage in a final battle. ')
             print('With your new power, you can either:')
 
-            print('You have two options. Choode wisely')
+            print('You have two options. Choose wisely')
             print('1.Destroy the Monster: You decide to end the threat once and for all, using the full extent of your power.')
             print('2.Spare the Monster:You realize that the monster is not evil, only confused and scared. You use your power to calm it and return it to its slumber.')
 
@@ -74,7 +74,7 @@ if answear1 == 1:
             print('The battle is fierce, with the monster overpowering you at every turn.')
             print('You must rely on your crew and all your resources to survive. You can:')
 
-            print('You have two options. Choode wisely')
+            print('You have two options. Choose wisely')
             print('1.Call for Backup: You send a distress signal to your ship, asking your crew for additional firepower.')
             print('2.Fight to the Last Breath: You refuse to retreat, determined to defeat the monster even if it means risking your life.')
 
@@ -91,7 +91,7 @@ elif answear1 == 2:
     print(' As you navigate through the dense foliage, you encounter a fairy elder who tells you of an ancient monster that has been awakened by the recent starfall.')
     print('The elder offers to guide you to a mystical pool that can grant you the power needed to defeat the monster.')
 
-    print('You have two options. Choode wisely')
+    print('You have two options. Choose wisely')
     print('1.Follow the Fairy Elder: You decide to trust the fairy elder and follow them to the mystical pool, hoping to gain the power needed to confront the monster.')
     print('2.Ignore the Elders Advice: You decide to continue exploring the forest, believing that you can find a way to defeat the monster without magical assistance.')
 
@@ -103,7 +103,7 @@ elif answear1 == 2:
         print(' The water sparkles with a soft blue light, and the elder tells you that by immersing yourself in the pool, you can harness the ancient magic of the fairies.')
         print('However, the magic is dangerous and may have unforeseen consequences.')
 
-        print('You have two options. Choode wisely')
+        print('You have two options. Choose wisely')
         print('1.Immerse Yourself in the Pool: You decide to take the risk and immerse yourself in the pool, hoping to gain the power needed to face the monster.')
         print('2.Decline the Magic: You choose not to risk the unknown magic and instead rely on your wits and the fairy elders guidance to defeat the monster.')
 
